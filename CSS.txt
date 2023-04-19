@@ -1,0 +1,2 @@
+Box-sizing: border-box; = nao deixa o filho sai de dentro do pai
+

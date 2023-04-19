@@ -1,0 +1,66 @@
+A <!DOCTYPE html>declaração define que este documento é um documento HTML5
+
+O <html>elemento é o elemento raiz de uma página HTML
+
+O <head>elemento contém metainformações sobre a página HTML
+
+O <title>elemento especifica um título para a página HTML (que é mostrado na barra de título do navegador ou na guia da página)
+
+O <body>elemento define o corpo do documento e é um recipiente para todos os conteúdos visíveis, como cabeçalhos, parágrafos, imagens, hiperlinks, tabelas, listas, etc.
+
+O <h1>elemento define um título grande
+
+O <p>elemento define um parágrafo
+
+Cabeçalhos HTML
+Os cabeçalhos HTML são definidos com as tags <h1>to <h6>.
+
+<h1>define o cabeçalho mais importante. <h6>define o título menos importante.
+
+Elementos de Formatação HTML
+Os elementos de formatação foram projetados para exibir tipos especiais de texto:
+
+<b>- Texto em negrito
+<strong>- Texto importante
+<i>- Texto em itálico
+<em>- Texto enfatizado
+<mark>- Texto marcado
+<small>- Texto menor
+<del>- Texto deletado
+<ins>- Texto inserido
+<sub>- texto subscrito
+<sup>- Texto sobrescrito
+
+Sintaxe de Imagens HTML
+A tag HTML <img>é usada para incorporar uma imagem em uma página da web.
+
+As imagens não são tecnicamente inseridas em uma página da web; as imagens estão vinculadas a páginas da web. A <img>tag cria um espaço de retenção para a imagem referenciada.
+
+A <img>tag está vazia, contém apenas atributos e não possui uma tag de fechamento.
+
+A <img>tag tem dois atributos obrigatórios:
+
+src - Especifica o caminho para a imagem
+alt - Especifica um texto alternativo para a imagem
+
+Exemplo: <img src="img_chania.jpg" alt="Flowers in Chania">
+
+Links HTML - Sintaxe
+A tag HTML <a>define um hiperlink. Possui a seguinte sintaxe:
+O atributo mais importante do <a> elemento é o hrefatributo, que indica o destino do link.
+EXEMPLO: <a href="https://www.w3schools.com/">Visit W3Schools.com!</a>
+
+Por padrão, a página vinculada será exibida na janela atual do navegador. Para alterar isso, você deve especificar outro destino para o link.
+
+O targetatributo especifica onde abrir o documento vinculado.
+
+O targetatributo pode ter um dos seguintes valores:
+
+_self- Padrão. Abre o documento na mesma janela/guia em que foi clicado
+_blank- Abre o documento em uma nova janela ou guia
+_parent- Abre o documento no quadro pai
+_top- Abre o documento em todo o corpo da janela
+
+Exemplo: <a href="https://www.w3schools.com/" target="_blank">Visit W3Schools!</a>
+
+XUI
