@@ -100,7 +100,7 @@ body{
     font-family: var(--font-secundaria);
 }
 
-.apresentacao__links__link:hover{
+.apresentacao__links__navegacao:hover{
     color: var(--cor-hover);
 }
 
