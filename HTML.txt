@@ -64,3 +64,10 @@ _top- Abre o documento em todo o corpo da janela
 Exemplo: <a href="https://www.w3schools.com/" target="_blank">Visit W3Schools!</a>
 
 XUI
+
+
+Unidade de medica
+
+PX 
+REM = 16 px igual 1 rem, REM ele altera junto com a porcetaegm q o usuario coloca no tamnho das letras
+% = unidade de medida baseado no elemento pai
